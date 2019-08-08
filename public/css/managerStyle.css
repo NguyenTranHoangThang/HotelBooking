@@ -1,0 +1,19 @@
+/* table {
+    text-align: center !important;
+} */
+
+.style-link>a,
+.style-link>a:hover,
+.style-link>a:link,
+.style-link>a:visited {
+    text-decoration: none !important;
+    color: #000000 !important;
+}
+
+.no-spinners input[type=number]::-webkit-inner-spin-button,
+.no-spinners input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0;
+}
